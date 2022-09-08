@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Mahdi®™ Django Deveoper ®™ 👋
+## 👋 Hey everyone, I'm Mahdi®™ Django Developer ®™ 👋
 
 
 <img src='https://github.com/darkkLUCIFER/darkkLUCIFER/blob/output/github-contribution-grid-snake.svg'> 
