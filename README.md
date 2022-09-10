@@ -32,3 +32,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <p align="center">Made with ❤️ </p>
 
 <h1 align='center'>⚡️<i>Stay Updated!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
