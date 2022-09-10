@@ -29,6 +29,6 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in Iran</p>
+<p align="center">Made with ❤️ </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay Updated!</i>⚡️</h1>
