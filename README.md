@@ -20,3 +20,6 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://www.instagram.com/mahdin2016/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="mailto: mdn1376@gmail.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
 <!-- <a href="http://mishmanners.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=darkkLUCIFER" height="200" alt="stats graph"  />
